@@ -1,28 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Fernando Nygaard</title>
-</head>
-<body>
-    <h1>Fernando Nygaard</h1>
-    <h2>Senior Software Engineer</h2>
+# Fernando Nygaard
 
-    <p>Java | Spring | PostgreSQL | AWS</p>
+## Senior Software Engineer
 
-    <a href="Fernando_Nygaard_Resume.pdf">
-        Download Resume
-    </a>
+Java | Spring | PostgreSQL | AWS | Software Architecture | Distributed Systems
 
-    <br><br>
+Senior Software Engineer with 20+ years of experience delivering scalable and reliable software solutions. Strong background in Java, Spring, PostgreSQL, AWS, distributed systems, enterprise integrations, security, and software architecture.
 
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-        LinkedIn
-    </a>
+### Links
 
-    <br>
-
-    <a href="https://github.com/SEU-USUARIO">
-        GitHub
-    </a>
-</body>
-</html>
+- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
+- 💻 GitHub: https://github.com/fnygaard
+- 📄 Resume: Coming soon
