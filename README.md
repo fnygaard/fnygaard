@@ -62,7 +62,7 @@ Currently interested in AI, LLMs, cloud-native architectures, and scalable softw
 
 - 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
 - 💻 GitHub: https://github.com/fnygaard
-- 📄 Resume: Coming soon
+- 📄 Resume: https://github.com/fnygaard/cv/blob/main/Fernando_Nygaard_Resume_10.pdf
 
 ---
 
